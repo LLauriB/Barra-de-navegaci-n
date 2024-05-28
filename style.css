@@ -1,0 +1,64 @@
+.nav{
+    color: white;
+    background-color: rgb(83, 82, 82);
+    font-family: "Dosis", sans-serif;
+    font-size: 15px;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    height: 60px;
+    margin: 0px;
+    padding: 2px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-title{
+    margin: 5px 10px 5px 15px ;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-links{
+    color: w;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin: 7px;
+    
+}
+
+.active{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+.btn{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+}
+button{
+    background-color: rgb(111, 203, 209);
+    color: rgb(246, 246, 249);
+    font-weight: bold;
+    padding: 5px;
+    border: 2px;
+    border-color: black;
+    box-shadow: 5px 5px black;
+}
